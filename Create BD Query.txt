@@ -1,0 +1,6 @@
+CREATE TABLE `db_backend_products`.`products` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(45) NULL,
+  `description` VARCHAR(455) NULL,
+  `price` INT NULL,
+  PRIMARY KEY (`id`));

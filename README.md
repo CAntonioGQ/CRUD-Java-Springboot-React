@@ -17,7 +17,6 @@ Este proyecto es un sistema simple de gestión de productos desarrollado utiliza
 - [API del Backend](#api-del-backend)
 - [Frontend](#frontend)
 - [Base de Datos](#base-de-datos)
-- [Licencia](#licencia)
 
 ## Introducción
 
